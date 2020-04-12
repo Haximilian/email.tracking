@@ -1,0 +1,21 @@
+MIME-Version: 1.0
+Subject: example
+From: source@mail.com
+To: destination@mail.com
+Content-Type: multipart/alternative; boundary="00000000000075a92b05a09ff54a"
+
+--00000000000075a92b05a09ff54a
+Content-Type: text/plain; charset="UTF-8"
+
+
+
+--00000000000075a92b05a09ff54a
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">
+	<div>
+		<img src="http://192.168.1.138:8080/" width="171" height="216" style="margin-right: 0px;">
+	</div>
+</div>
+
+--00000000000075a92b05a09ff54a--
